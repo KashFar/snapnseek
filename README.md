@@ -5,9 +5,9 @@ Geocaching but with pictures
 
 Contributors: 
 
-Peter Mayor
-Kash Farhadi
-Jonathan Taylor
+Peter Mayor <br/>
+Kash Farhadi<br/>
+Jonathan Taylor<br/>
 
 Landmark Feature:
  Geolocation data tracking used to compare where pictures were taken
