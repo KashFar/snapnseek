@@ -11,7 +11,7 @@ Users can have fun trying to find cool things around the city and get points for
 Contributors: 
 - Peter Mayor <br/>
 - Kash Farhadi <br/>
-- Jonathan Taylor <br/>
+- Jon Taylor The Legendary <br/>
 
 ### Landmark Feature: Geolocation data tracking used to compare where pictures were taken.
 
